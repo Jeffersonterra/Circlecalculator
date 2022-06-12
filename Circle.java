@@ -7,7 +7,6 @@ public static void main (String[] args){
 
 	Scanner sc = new Scanner (System.in);
 	double radius, radius2, area;
-	//fazer a area de um circulo ao receber o raio;
 System.out.println("Digite o raio do circulo");
 System.out.println("Input the radius of the circle");
 radius = sc.nextDouble();
